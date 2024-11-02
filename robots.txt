@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://azoduajo.github.io/NsU/sitemap_index.txt
+Sitemap: https://azoduajo.github.io/xIC/sitemap_index.txt
+Sitemap: https://azoduajo.github.io/xJY/sitemap_index.txt
+Sitemap: https://azoduajo.github.io/xhc/sitemap_index.txt
